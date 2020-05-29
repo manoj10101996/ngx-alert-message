@@ -9,7 +9,7 @@
 # Preview demo
 
 This preview was generated with [Stackblitz](https://stackblitz.com/edit/ngx-alert-message)
-<img src="https://github.com/manoj10101996/ngx-star-rating/blob/master/star.png?raw=true" width="100%" title="STAR RATING" alt="STAR">
+<img src="https://github.com/manoj10101996/ngx-alert-message/blob/master/ss.png?raw=true" width="100%" title="STAR RATING" alt="STAR">
 
 
 # Angular version
