@@ -1,0 +1,42 @@
+{
+  "name": "ngx-alert-message",
+  "author": {
+    "name": "Manojkumar Muthukumar",
+    "email": "manoj1010196@gmail.com"
+  },
+  "description": "Alert messages",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "icon": "https://image.flaticon.com/icons/svg/2959/2959590.svg",
+  "keywords": [
+    "angular",
+    "ngx",
+    "ng9",
+    "star",
+    "rating",
+    "ngx-alert-message",
+    "manoj10101996",
+    "uiconfig"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manoj10101996/ngx-alert-message"
+  },
+  "main": "bundles/ngx-alert-message.umd.js",
+  "module": "fesm5/ngx-alert-message.js",
+  "es2015": "fesm2015/ngx-alert-message.js",
+  "esm5": "esm5/ngx-alert-message.js",
+  "esm2015": "esm2015/ngx-alert-message.js",
+  "fesm5": "fesm5/ngx-alert-message.js",
+  "fesm2015": "fesm2015/ngx-alert-message.js",
+  "typings": "ngx-alert-message.d.ts",
+  "metadata": "ngx-alert-message.metadata.json",
+  "sideEffects": false
+}
